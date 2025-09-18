@@ -10,6 +10,7 @@ The project simulates how a security team would establish foundational policies,
 
 The project is organized into three major security pathways, each delivered over multiple weeks and concluding with a pathway overview:
 
+```plaintext
 Falconi-Cybersecurity-Portfolio/
 │
 ├── 01-enterprise-cyber-essentials-framework/
@@ -41,7 +42,7 @@ Falconi-Cybersecurity-Portfolio/
 │   └── README.md   
 │
 └── README.md  
-
+```
 ---
 
 ## 🧩 Pathway Summaries
