@@ -10,7 +10,37 @@ The project simulates how a security team would establish foundational policies,
 
 The project is organized into three major security pathways, each delivered over multiple weeks and concluding with a pathway overview:
 
-
+Falconi-Cybersecurity-Portfolio/
+│
+├── 01-enterprise-cyber-essentials-framework/
+│   │
+│   ├── week1_yourself_staff/
+│   │   ├── Week1_FinalDeliverable_Falconi_CyberEssentials.pdf
+│   │   ├── standalone_deliverables/
+│   │   └── README.md
+│   │
+│   ├── week2_systems_surrounding/
+│   │   ├── Week2_FinalDeliverable_Falconi_CyberEssentials.pdf
+│   │   ├── standalone_deliverables/
+│   │   └── README.md
+│   │
+│   ├── week3_data_crisisresponse/
+│   │   ├── Week3_FinalDeliverable_Falconi_CyberEssentials.pdf
+│   │   ├── standalone_deliverables/
+│   │   └── README.md
+│   │
+│   ├── Falconi_CyberEssentials_Pathway_Overview.pdf
+│   └── reference/
+│
+├── 02-falconi-incident-response-program/
+│   └── README.md  
+│
+├── 03-falconi-risk-
+│
+├── 04-falconi-final--presentation/
+│   └── README.md   
+│
+└── README.md  
 
 ---
 
